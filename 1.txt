@@ -1,2 +1,12 @@
 This is my first text document
 adding this new line
+
+echo "# SarfarazGitApp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sarfaraztah12/SarfarazGitApp.git
+git push -u origin master
+
+git remote add origin https://github.com/sarfaraztah12/SarfarazGitApp.git
+git push -u origin master
